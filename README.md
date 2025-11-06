@@ -6,7 +6,7 @@ Copyright © 2025. All rights reserved.
 
 Overview:<br>
 Project Lambda is a collection of short Python scripts designed to strengthen programming fundamentals through practical problem-solving.<br>
-Each file (`e1.py` through `e13.py`) focuses on a specific algorithmic or logical challenge — from basic loops and conditionals to string manipulation, array processing, and simulation-based problems.<br>
+Each file (`e1.py` through `e13.py`) focuses on a specific algorithmic or logical challenge, from basic loops and conditionals to string manipulation, array processing, and simulation-based problems.<br>
 The project demonstrates structured problem decomposition, input/output handling, and clean Python syntax for algorithmic exercises.<br>
 
 ---
